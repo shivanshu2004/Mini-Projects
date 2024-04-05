@@ -1,1 +1,1 @@
-In this mini project I formed Side bar menu project using HTML and CSS.
+In this mini project I formed "Side Bar Menu" project using HTML and CSS.
